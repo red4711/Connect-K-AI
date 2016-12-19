@@ -4,3 +4,10 @@
 2016-12-04 13:40:34 [main] DEBUG connectK.ConnectK - Player 1 [GUI]  says:
 2016-12-04 13:47:23 [main] DEBUG connectK.ConnectK - Player 1 [GUI]  says:
 2016-12-04 13:47:23 [main] DEBUG connectK.ConnectK - Player 1 [GUI]  says:
+2016-12-19 10:27:11 [main] DEBUG connectK.ConnectK - Player 1 [GUI]  says:
+2016-12-19 10:27:11 [main] DEBUG connectK.ConnectK - Player 1 [GUI]  says:
+2016-12-19 10:27:24 [Thread-4] DEBUG connectK.ConnectK - Player 1 [GUI]  says:
+2016-12-19 10:27:25 [Thread-4] DEBUG connectK.ConnectK - Player 1 [GUI]  returns move 6, 2.
+2016-12-19 10:27:25 [Thread-4] DEBUG connectK.ConnectK - Player 2 [AI]  says:
+2016-12-19 10:27:31 [Thread-4] DEBUG connectK.ConnectK - Player 2 [AI]  returns move 5, 3.
+2016-12-19 10:27:31 [Thread-4] DEBUG connectK.ConnectK - Player 1 [GUI]  says:
